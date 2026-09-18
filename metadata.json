@@ -1,0 +1,8 @@
+{
+  "name": "Terminal Sentiment Matrix",
+  "description": "Distributed psychological simulation terminal for collective market sentiment analysis using multiple AI personas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
